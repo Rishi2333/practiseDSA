@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [CodeHub](https://github.com/rishijain07/CodeHub)
+A collection of LeetCode questions to ace the coding interview! 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
