@@ -5,8 +5,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
+## Array
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
