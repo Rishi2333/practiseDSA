@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
