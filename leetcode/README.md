@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
