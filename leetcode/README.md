@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
