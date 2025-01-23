@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
@@ -123,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
