@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2292-counting-words-with-a-given-prefix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
