@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
