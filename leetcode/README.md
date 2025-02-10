@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3447-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
