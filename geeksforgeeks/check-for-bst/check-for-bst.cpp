@@ -1,0 +1,2 @@
+    bool isBST(Node* root) {
+
