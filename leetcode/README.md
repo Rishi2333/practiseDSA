@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0952-word-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1502-construct-k-palindrome-strings) |
@@ -213,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
