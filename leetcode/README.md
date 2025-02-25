@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 ## Backtracking
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1387-find-elements-in-a-contaminated-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
