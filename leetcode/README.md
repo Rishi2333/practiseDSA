@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -246,4 +247,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
