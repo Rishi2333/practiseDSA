@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2145-grid-game](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
