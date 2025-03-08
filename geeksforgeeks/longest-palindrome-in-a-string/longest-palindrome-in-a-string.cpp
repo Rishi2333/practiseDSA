@@ -1,0 +1,2 @@
+    string longestPalindrome(string &s) {
+
