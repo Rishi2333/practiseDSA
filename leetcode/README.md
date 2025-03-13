@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2358-number-of-ways-to-split-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
