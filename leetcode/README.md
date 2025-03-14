@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0952-word-subsets) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -289,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
