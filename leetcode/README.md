@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -291,5 +292,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
