@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-map-of-highest-peak](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1558-course-schedule-iv](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,12 +217,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rishi2333/practiseDSA/tree/master/LeetCode/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
